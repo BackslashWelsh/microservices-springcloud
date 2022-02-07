@@ -23,4 +23,3 @@ http://localhost:9411/zipkin/
 https://localhost:8443/eureka/web
 #### Swagger - OpenApi documentation
 https://localhost:8443/openapi/swagger-ui.html <br>
-Authorization of Swagger temporary unavailable.
