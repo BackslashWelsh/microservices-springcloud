@@ -23,3 +23,6 @@ http://localhost:9411/zipkin/
 https://localhost:8443/eureka/web
 #### Swagger - OpenApi documentation
 https://localhost:8443/openapi/swagger-ui.html <br>
+
+### Reference
+using examples from [Hands-On Microservices with Spring Boot](https://www.amazon.com/Hands-Microservices-Spring-Boot-Cloud/dp/1789613477)
